@@ -5,7 +5,7 @@ about:
   head: d229ebe
   archived: false
   latestVersion: "v0.9.5"
-  collectedAt: 2026-09-07T06:17:26Z
+  collectedAt: 2026-09-07T18:21:11Z
 timeline:
   created: 2018-04-07
   lastCommit: 2023-02-21
@@ -79,7 +79,7 @@ total:
   commit: 606
 ---
 path: /home/runner/.x-repo/github.com/xgi/castero
-collectedAt: 2026-09-07T06:17:27Z
+collectedAt: 2026-09-07T18:21:12Z
 loc:
   Python:
     code: 7006
@@ -209,7 +209,7 @@ checks:
       - 'Warn: 0 commits out of 12 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:17:27+00:00
+  collectedAt: 2026-09-07T18:21:12+00:00
   platform:
     darwin/arm64:
       name:  null
