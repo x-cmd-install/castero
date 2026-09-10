@@ -1,0 +1,142 @@
+- repo: nix_stable_25_05
+  srcname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: null
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - therealketo@github
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: null
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - therealketo@github
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: castero
+  binname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: 0.9.5-r5
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: castero
+  binname: castero-pyc
+  visiblename: castero-pyc
+  version: 0.9.5
+  origversion: 0.9.5-r5
+  status: newest
+  summary: Precompiled Python bytecode for castero
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: aur
+  srcname: castero
+  binname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: 0.9.5-1
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - bittin@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: castero-git
+  binname: castero-git
+  visiblename: castero-git
+  version: 0.9.5.r6.gd229ebe
+  origversion: 0.9.5.r6.gd229ebe-1
+  status: rolling
+  summary: Podcast client for the command line
+  maintainers:
+    - willemw@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: null
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - therealketo@github
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: null
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - therealketo@github
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: null
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - therealketo@github
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: null
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - therealketo@github
+  licenses:
+    - MIT
+- repo: t2
+  srcname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: null
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/multimedia
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: castero
+  binname: castero
+  visiblename: castero
+  version: 0.9.5
+  origversion: 0.9.5_4
+  status: newest
+  summary: TUI podcast client for the terminal
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - MIT
